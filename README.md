@@ -1,1 +1,1 @@
-##Simple Markov chain sentence generator
+# Simple Markov chain sentence generator
